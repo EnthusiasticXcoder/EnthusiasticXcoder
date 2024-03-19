@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, Dart, SQL**
 
-- 📫 How to reach me **anshulverma1405@gmail.com**
+- 📫 How to reach me **work.anshul.verma@gmail.com**
 
 - ⚡ Fun fact **I am Lazy and Hard Worker**
 
